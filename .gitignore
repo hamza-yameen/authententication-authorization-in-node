@@ -1,0 +1,49 @@
+# Node modules directory
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+# .env
+
+
+# Build directory
+dist/
+build/
+
+# Temporary files and folders
+tmp/
+temp/
+*.tmp
+
+# VS Code settings
+.vscode/
+
+# MacOS files
+.DS_Store
+
+# Docker files
+docker-compose.override.yml
+docker-compose.debug.yml
+.docker/
+
+# Coverage directory
+coverage/
+
+# NPM package files
+package-lock.json
+yarn.lock
+
+# Idea files
+.idea/
+
+# Other local environment settings
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
