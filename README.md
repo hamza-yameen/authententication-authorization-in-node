@@ -43,10 +43,13 @@ cd your-project-name
 ```
 
 3. Environment Variables
+
+```bash
 Create a file named .env in the project root directory.
 Add the following environment variables to the .env file, replacing the placeholders with your actual values
+```
 
-4. Install the required dependencies
+5. Install the required dependencies
 
 ```bash
 npm install
