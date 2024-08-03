@@ -1,6 +1,6 @@
-# Authentication and Authorization with Roles using Node.js, Express.js, Prisma ORM, Twilio SendGrid, Redis and MySQL
+# Authentication and Authorization with Roles using Node.js, Express.js, Prisma ORM, Twilio SendGrid, Redis, Docker, and Postgresql
 
-With this repo, you'll be able to see how the node.js/express.js project should be structured. This is the authentication and authorization system using JWT tokens, Redis, and Twilio SendGrid.
+With this repo, you'll be able to see how the node.js/express.js project should be structured. This is the authentication and authorization system using JWT tokens, Redis, docker and Twilio SendGrid.
 
 ## What you'll learn:
 
@@ -30,7 +30,7 @@ With this repo, you'll be able to see how the node.js/express.js project should 
    Implementing Redis for caching, request limiting, and session management.
 
 7. ### Docker:
-Configuring Docker in a Node.js application, setting up PostgreSQL and Redis databases, and running the app through Docker.
+   Configuring Docker in a Node.js application, setting up PostgreSQL and Redis databases, and running the app through Docker.
 
 ## Installation
 
